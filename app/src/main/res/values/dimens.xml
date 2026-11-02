@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_height">100dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_corner">12dp</dimen>
+    <dimen name="card_text_size">24sp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_margin">12dp</dimen>
+    <dimen name="button_text_size">16sp</dimen>
+    <dimen name="list_bottom_padding">80dp</dimen>
+</resources>

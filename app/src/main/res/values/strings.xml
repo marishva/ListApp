@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Работа со списком</string>
+    <string name="btn_add">Добавить карточку</string>
+</resources>
